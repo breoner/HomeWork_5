@@ -79,7 +79,7 @@ if (season) {
 const red = "червоний";
 const yellow = "жовтий";
 const green = "зелений";
-const proposition = prompt("Вибеоіть колір: червоний,жовтий,зелений")
+const proposition = prompt("Виберіть колір: червоний,жовтий,зелений")
   .trim()
   .toLowerCase();
 switch (proposition) {
